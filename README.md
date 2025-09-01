@@ -1,0 +1,2 @@
+# Text-Categorization-and-Summarization-for-Legal-Documents-Using-Hybrid-NLP-System
+This project focuses on automating the classification and summarization of legal documents using a hybrid NLP approach. The system integrates machine learning-based categorization (Naive Bayes with TF-IDF vectorization) and graph-based extractive summarization (TextRank) to address challenges in handling large volumes of legal text.
